@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@netlify/functions": "^3.0.0",
+    "@supabase/supabase-js": "^2.49.1"
+  }
+}
