@@ -7,7 +7,7 @@ async function fetchQuote() {
 
     try {
         // Fetch the OpenAI API key from Netlify function
-        const response = await fetch("/.functions/get-api-key");
+        const response = await fetch("/.netlify/functions/get-api-key");
         if (!response.ok) {
             throw new Error(`Failed to fetch API key: ${response.status}`);
         }
