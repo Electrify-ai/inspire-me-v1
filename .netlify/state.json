@@ -1,0 +1,21 @@
+{
+	"siteId": "19a7f163-5c43-48c4-a9c0-440efd1d8c37",
+	"geolocation": {
+		"data": {
+			"city": "Brisbane",
+			"country": {
+				"code": "AU",
+				"name": "Australia"
+			},
+			"subdivision": {
+				"code": "QLD",
+				"name": "Queensland"
+			},
+			"timezone": "Australia/Brisbane",
+			"latitude": -27.4785,
+			"longitude": 152.9894,
+			"postalCode": "4066"
+		},
+		"timestamp": 1740398512498
+	}
+}

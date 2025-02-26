@@ -1,0 +1,1 @@
+module.exports = require('./netlify/functions/get-api-key/get-api-key.js')
